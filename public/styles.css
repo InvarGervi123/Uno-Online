@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #f4f4f4;
+  }
+  
+  #game {
+    text-align: center;
+  }
+  
+  #players, #hand {
+    margin: 20px 0;
+  }
+  
